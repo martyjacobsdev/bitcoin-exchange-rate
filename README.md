@@ -2,6 +2,8 @@
 
 Bitcoin currency converter
 
+![](btc.jpg)
+
 <br>Supported currencies:</b>
 
 `"USD", "JPY", "CNY", "SGD", "HKD", "CAD", "NZD", "AUD", "CLP", "GBP", "DKK", "SEK", "ISK", "CHF", "BRL", "EUR", "RUB",
